@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+
+  }
+
+li{
+    list-style: none;
+}
+
+header{
+    height: 83px;
+    background-color: cornsilk;
+}
+
